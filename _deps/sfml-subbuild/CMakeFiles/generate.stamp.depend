@@ -1,0 +1,22 @@
+# CMake generation dependency list for this directory.
+E:/Cmake/cmake-3.28.0-rc2-windows-x86_64/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake
+E:/Cmake/cmake-3.28.0-rc2-windows-x86_64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake
+E:/Cmake/cmake-3.28.0-rc2-windows-x86_64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake
+E:/Cmake/cmake-3.28.0-rc2-windows-x86_64/share/cmake-3.28/Modules/CMakeSystem.cmake.in
+E:/Cmake/cmake-3.28.0-rc2-windows-x86_64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake
+E:/Cmake/cmake-3.28.0-rc2-windows-x86_64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake
+E:/Cmake/cmake-3.28.0-rc2-windows-x86_64/share/cmake-3.28/Modules/ExternalProject.cmake
+E:/Cmake/cmake-3.28.0-rc2-windows-x86_64/share/cmake-3.28/Modules/ExternalProject/PatchInfo.txt.in
+E:/Cmake/cmake-3.28.0-rc2-windows-x86_64/share/cmake-3.28/Modules/ExternalProject/RepositoryInfo.txt.in
+E:/Cmake/cmake-3.28.0-rc2-windows-x86_64/share/cmake-3.28/Modules/ExternalProject/UpdateInfo.txt.in
+E:/Cmake/cmake-3.28.0-rc2-windows-x86_64/share/cmake-3.28/Modules/ExternalProject/cfgcmd.txt.in
+E:/Cmake/cmake-3.28.0-rc2-windows-x86_64/share/cmake-3.28/Modules/ExternalProject/gitclone.cmake.in
+E:/Cmake/cmake-3.28.0-rc2-windows-x86_64/share/cmake-3.28/Modules/ExternalProject/gitupdate.cmake.in
+E:/Cmake/cmake-3.28.0-rc2-windows-x86_64/share/cmake-3.28/Modules/ExternalProject/mkdirs.cmake.in
+E:/Cmake/cmake-3.28.0-rc2-windows-x86_64/share/cmake-3.28/Modules/ExternalProject/shared_internal_commands.cmake
+E:/Cmake/cmake-3.28.0-rc2-windows-x86_64/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake
+E:/Cmake/cmake-3.28.0-rc2-windows-x86_64/share/cmake-3.28/Modules/Platform/Windows.cmake
+E:/Cmake/cmake-3.28.0-rc2-windows-x86_64/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake
+E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/CMakeFiles/3.28.0-rc2/CMakeSystem.cmake
+E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/CMakeLists.txt
+E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/sfml-populate-prefix/tmp/sfml-populate-mkdirs.cmake

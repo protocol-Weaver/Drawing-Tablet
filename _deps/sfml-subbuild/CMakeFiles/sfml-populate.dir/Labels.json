@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/CMakeFiles/sfml-populate"
+		},
+		{
+			"file" : "E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/CMakeFiles/4943df0685d0967dfbc62fce99cd0aa6/sfml-populate.rule"
+		},
+		{
+			"file" : "E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/CMakeFiles/139e8b885de5e2ebf44d22b2feb27c2f/sfml-populate-complete.rule"
+		},
+		{
+			"file" : "E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/CMakeFiles/bde67c245fbf9bb5c1e5a2702214c723/sfml-populate-build.rule"
+		},
+		{
+			"file" : "E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/CMakeFiles/bde67c245fbf9bb5c1e5a2702214c723/sfml-populate-configure.rule"
+		},
+		{
+			"file" : "E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/CMakeFiles/bde67c245fbf9bb5c1e5a2702214c723/sfml-populate-download.rule"
+		},
+		{
+			"file" : "E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/CMakeFiles/bde67c245fbf9bb5c1e5a2702214c723/sfml-populate-install.rule"
+		},
+		{
+			"file" : "E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/CMakeFiles/bde67c245fbf9bb5c1e5a2702214c723/sfml-populate-mkdir.rule"
+		},
+		{
+			"file" : "E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/CMakeFiles/bde67c245fbf9bb5c1e5a2702214c723/sfml-populate-patch.rule"
+		},
+		{
+			"file" : "E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/CMakeFiles/bde67c245fbf9bb5c1e5a2702214c723/sfml-populate-test.rule"
+		},
+		{
+			"file" : "E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/CMakeFiles/bde67c245fbf9bb5c1e5a2702214c723/sfml-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sfml-populate"
+		],
+		"name" : "sfml-populate"
+	}
+}

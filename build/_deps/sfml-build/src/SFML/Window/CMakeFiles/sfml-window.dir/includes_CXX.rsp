@@ -1,0 +1,1 @@
+-I"E:/Projects/C++/23L-0553, 23L-0907/build/_deps/sfml-src/include" -I"E:/Projects/C++/23L-0553, 23L-0907/build/_deps/sfml-src/src" -I"E:/Projects/C++/23L-0553, 23L-0907/build/_deps/sfml-src/extlibs/headers/vulkan" -isystem "E:/Projects/C++/23L-0553, 23L-0907/build/_deps/sfml-src/extlibs/headers/glad/include"

@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Projects/C++/23L-0553, 23L-0907/build/_deps/sfml-build/src/SFML/Network/sfml-network.rc
+winresrc.h
+E:/Projects/C++/23L-0553, 23L-0907/build/_deps/sfml-build/src/SFML/Network/winresrc.h
+

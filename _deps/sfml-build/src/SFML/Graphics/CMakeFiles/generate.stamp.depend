@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-src/cmake/Modules/FindFreetype.cmake
+E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-src/src/SFML/Graphics/CMakeLists.txt
+E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-src/tools/windows/resource.rc.in

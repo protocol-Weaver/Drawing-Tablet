@@ -1,0 +1,6 @@
+# CMake generation dependency list for this directory.
+E:/Cmake/cmake-3.28.0-rc2-windows-x86_64/share/cmake-3.28/Modules/FindOpenGL.cmake
+E:/Cmake/cmake-3.28.0-rc2-windows-x86_64/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake
+E:/Cmake/cmake-3.28.0-rc2-windows-x86_64/share/cmake-3.28/Modules/FindPackageMessage.cmake
+E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-src/src/SFML/Window/CMakeLists.txt
+E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-src/tools/windows/resource.rc.in

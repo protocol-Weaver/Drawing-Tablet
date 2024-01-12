@@ -1,0 +1,150 @@
+^E:\PROJECTS\C++\23L-0553, 23L-0907\_DEPS\SFML-SUBBUILD\CMAKEFILES\BDE67C245FBF9BB5C1E5A2702214C723\SFML-POPULATE-MKDIR.RULE
+setlocal
+E:\Cmake\cmake-3.28.0-rc2-windows-x86_64\bin\cmake.exe -Dcfgdir=/Debug -P "E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/sfml-populate-prefix/tmp/sfml-populate-mkdirs.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+E:\Cmake\cmake-3.28.0-rc2-windows-x86_64\bin\cmake.exe -E touch "E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/Debug/sfml-populate-mkdir"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\C++\23L-0553, 23L-0907\_DEPS\SFML-SUBBUILD\CMAKEFILES\BDE67C245FBF9BB5C1E5A2702214C723\SFML-POPULATE-DOWNLOAD.RULE
+setlocal
+cd "E:\Projects\C++\23L-0553, 23L-0907\_deps"
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+E:\Cmake\cmake-3.28.0-rc2-windows-x86_64\bin\cmake.exe -P "E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/sfml-populate-prefix/tmp/sfml-populate-gitclone.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+E:\Cmake\cmake-3.28.0-rc2-windows-x86_64\bin\cmake.exe -E touch "E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/Debug/sfml-populate-download"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\C++\23L-0553, 23L-0907\_DEPS\SFML-SUBBUILD\CMAKEFILES\BDE67C245FBF9BB5C1E5A2702214C723\SFML-POPULATE-UPDATE.RULE
+setlocal
+cd "E:\Projects\C++\23L-0553, 23L-0907\_deps\sfml-src"
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+E:\Cmake\cmake-3.28.0-rc2-windows-x86_64\bin\cmake.exe -Dcan_fetch=YES -P "E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/sfml-populate-prefix/tmp/sfml-populate-gitupdate.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\C++\23L-0553, 23L-0907\_DEPS\SFML-SUBBUILD\CMAKEFILES\BDE67C245FBF9BB5C1E5A2702214C723\SFML-POPULATE-PATCH.RULE
+setlocal
+E:\Cmake\cmake-3.28.0-rc2-windows-x86_64\bin\cmake.exe -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+E:\Cmake\cmake-3.28.0-rc2-windows-x86_64\bin\cmake.exe -E touch "E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/Debug/sfml-populate-patch"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\C++\23L-0553, 23L-0907\_DEPS\SFML-SUBBUILD\CMAKEFILES\BDE67C245FBF9BB5C1E5A2702214C723\SFML-POPULATE-CONFIGURE.RULE
+setlocal
+cd "E:\Projects\C++\23L-0553, 23L-0907\_deps\sfml-build"
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+E:\Cmake\cmake-3.28.0-rc2-windows-x86_64\bin\cmake.exe -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+E:\Cmake\cmake-3.28.0-rc2-windows-x86_64\bin\cmake.exe -E touch "E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/Debug/sfml-populate-configure"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\C++\23L-0553, 23L-0907\_DEPS\SFML-SUBBUILD\CMAKEFILES\BDE67C245FBF9BB5C1E5A2702214C723\SFML-POPULATE-BUILD.RULE
+setlocal
+cd "E:\Projects\C++\23L-0553, 23L-0907\_deps\sfml-build"
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+E:\Cmake\cmake-3.28.0-rc2-windows-x86_64\bin\cmake.exe -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+E:\Cmake\cmake-3.28.0-rc2-windows-x86_64\bin\cmake.exe -E touch "E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/Debug/sfml-populate-build"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\C++\23L-0553, 23L-0907\_DEPS\SFML-SUBBUILD\CMAKEFILES\BDE67C245FBF9BB5C1E5A2702214C723\SFML-POPULATE-INSTALL.RULE
+setlocal
+cd "E:\Projects\C++\23L-0553, 23L-0907\_deps\sfml-build"
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+E:\Cmake\cmake-3.28.0-rc2-windows-x86_64\bin\cmake.exe -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+E:\Cmake\cmake-3.28.0-rc2-windows-x86_64\bin\cmake.exe -E touch "E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/Debug/sfml-populate-install"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\C++\23L-0553, 23L-0907\_DEPS\SFML-SUBBUILD\CMAKEFILES\BDE67C245FBF9BB5C1E5A2702214C723\SFML-POPULATE-TEST.RULE
+setlocal
+cd "E:\Projects\C++\23L-0553, 23L-0907\_deps\sfml-build"
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+E:\Cmake\cmake-3.28.0-rc2-windows-x86_64\bin\cmake.exe -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+E:\Cmake\cmake-3.28.0-rc2-windows-x86_64\bin\cmake.exe -E touch "E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/Debug/sfml-populate-test"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\C++\23L-0553, 23L-0907\_DEPS\SFML-SUBBUILD\CMAKEFILES\139E8B885DE5E2EBF44D22B2FEB27C2F\SFML-POPULATE-COMPLETE.RULE
+setlocal
+E:\Cmake\cmake-3.28.0-rc2-windows-x86_64\bin\cmake.exe -E make_directory "E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/CMakeFiles/Debug"
+if %errorlevel% neq 0 goto :cmEnd
+E:\Cmake\cmake-3.28.0-rc2-windows-x86_64\bin\cmake.exe -E touch "E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/CMakeFiles/Debug/sfml-populate-complete"
+if %errorlevel% neq 0 goto :cmEnd
+E:\Cmake\cmake-3.28.0-rc2-windows-x86_64\bin\cmake.exe -E touch "E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/Debug/sfml-populate-done"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\C++\23L-0553, 23L-0907\_DEPS\SFML-SUBBUILD\CMAKEFILES\4943DF0685D0967DFBC62FCE99CD0AA6\SFML-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\C++\23L-0553, 23L-0907\_DEPS\SFML-SUBBUILD\CMAKELISTS.TXT
+setlocal
+E:\Cmake\cmake-3.28.0-rc2-windows-x86_64\bin\cmake.exe "-SE:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild" "-BE:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild" --check-stamp-file "E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

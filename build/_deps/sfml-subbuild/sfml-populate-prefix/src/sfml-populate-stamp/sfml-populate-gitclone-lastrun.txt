@@ -1,0 +1,15 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=git
+command=E:/Cmake/cmake-3.28.0-rc2-windows-x86_64/bin/cmake.exe;-P;E:/Projects/C++/23L-0553, 23L-0907/build/_deps/sfml-subbuild/sfml-populate-prefix/tmp/sfml-populate-gitclone.cmake
+source_dir=E:/Projects/C++/23L-0553, 23L-0907/build/_deps/sfml-src
+work_dir=E:/Projects/C++/23L-0553, 23L-0907/build/_deps
+repository=https://github.com/SFML/SFML.git
+remote=origin
+init_submodules=TRUE
+recurse_submodules=--recursive
+submodules=
+CMP0097=NEW
+

@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+E:/Cmake/cmake-3.28.0-rc2-windows-x86_64/share/cmake-3.28/Modules/CMakeParseArguments.cmake
+E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-src/cmake/CompilerWarnings.cmake
+E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-src/cmake/Macros.cmake
+E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-src/src/SFML/CMakeLists.txt

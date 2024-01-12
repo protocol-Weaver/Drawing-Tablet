@@ -1,0 +1,10 @@
+^E:\PROJECTS\C++\23L-0553, 23L-0907\_DEPS\SFML-SUBBUILD\CMAKELISTS.TXT
+setlocal
+E:\Cmake\cmake-3.28.0-rc2-windows-x86_64\bin\cmake.exe "-SE:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild" "-BE:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild" --check-stamp-file "E:/Projects/C++/23L-0553, 23L-0907/_deps/sfml-subbuild/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

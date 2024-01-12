@@ -1,0 +1,31 @@
+lecsfd 40pufd50pdbk 30lt 45fd 
+60rt 30fd 100cssave hope.txt
+cs
+reset
+fd 30
+f d30
+forward40
+fd40
+fd   20
+fd
+fd
+bk60
+backward   9
+bk
+backward
+circle 10
+circle 30
+circle
+reset
+cs
+circle
+cs
+fd 40
+pu
+fd50
+pd
+bk 30
+lt 45
+fd 60
+rt 30
+fd 100
